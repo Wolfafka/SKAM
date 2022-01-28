@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Hello Wolfafka!
 
-You can use the [editor on GitHub](https://github.com/Wolfafka/SKAM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Do not go gentle into that good night
 
-### Markdown
+Dylan Thomas - 1914-1953
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Do not go gentle into that good night,
 
-```markdown
-Syntax highlighted code block
+Old age should burn and rave at close of day;
 
-# Header 1
-## Header 2
-### Header 3
+Rage, rage against the dying of the light.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Though wise men at their end know dark is right,
 
-**Bold** and _Italic_ and `Code` text
+Because their words had forked no lightning they
 
-[Link](url) and ![Image](src)
-```
+Do not go gentle into that good night.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Good men, the last wave by, crying how bright
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wolfafka/SKAM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Their frail deeds might have danced in a green bay,
 
-### Support or Contact
+Rage, rage against the dying of the light.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Wild men who caught and sang the sun in flight,
+
+And learn, too late, they grieved it on its way,
+
+Do not go gentle into that good night.
+
+
+Grave men, near death, who see with blinding sight
+
+Blind eyes could blaze like meteors and be gay,
+
+Rage, rage against the dying of the light.
+
+
+And you, my father, there on the sad height,
+
+Curse, bless, me now with your fierce tears, I pray.
+
+Do not go gentle into that good night.
+
+Rage, rage against the dying of the light.
+
+---
+
+2022/01/28/0918
